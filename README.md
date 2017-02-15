@@ -5,3 +5,12 @@ to inspire her and other kids what is possible now with ubiquitous computing mad
 CMU Sphinx. 
 
 I will keep improving this incrementally and will be always open source.
+
+
+Here is short demo
+
+
+[![IMAGE ALT TEXT]()](https://www.youtube.com/watch?v=B0SjojJyIAI "Speech Recognition short demo")
+
+Here is longer one
+[![IMAGE ALT TEXT]()](https://www.youtube.com/watch?v=BYcX-pPah3c "Speech Recognition long demo")
